@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java 2</string>
+    <string name="choco">Coklat</string>
+    <string name="cream">Krim Kocok</string>
+    <string name="fewCoffee">Anda Tidak Bisa Membeli Kopi Kurang dari 1</string>
+    <string name="moreCoffee">Anda Tidak Bisa Membeli Kopi Lebih dari 100</string>
+    <string name="name">Nama</string>
+    <string name="order">Pesanan</string>
+    <string name="order_email">\"Pesanan Just Java untuk <xliff:g id="name" example="ruzi">%s</xliff:g>\"</string>
+    <string name="order_smry">Nama: <xliff:g id="name" example="ruzi">%s</xliff:g></string>
+    <string name="order_smry_ch">Tambah Coklat ? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_smry_cr">Tambah Krim Kocok? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_smry_pr">Total: $<xliff:g id="price" example="10">%d</xliff:g></string>
+    <string name="order_smry_qty">Jumlah: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="qty">Jumlah</string>
+    <string name="qty_value">0</string>
+    <string name="thanks">Terima Kasih</string>
+    <string name="toppings">Tambahan</string>
+</resources>
